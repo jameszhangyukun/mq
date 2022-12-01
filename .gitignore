@@ -25,7 +25,7 @@ hs_err_pid*
 *.iml
 /.idea/
 /target/
-/rpc-framework-simple/target/
+/common/target/
 /rpc-framework-common/target/
 /hello-service-api/target/
 /example-server/target/
